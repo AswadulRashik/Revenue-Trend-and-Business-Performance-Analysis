@@ -8,7 +8,7 @@
    - **Feature Engineering**: Column creation and dataset enhancement
    - **Load Data into MySQL and PostgreSQL**: Connection using SQLAlchemy
    - **SQL Analysis**: Complex Queries and Problem Solving to answer critical business questions 
-   - **Business Problem-Solving**: complex SQL queries to answer critical business questions, such as:
+   - **Business Problem-Solving**: Complex SQL queries to answer critical business questions, such as:
      - Revenue trends across branches and categories.
      - Identifying best-selling product categories.
      - Sales performance by time, city, and payment method.
